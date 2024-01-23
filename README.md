@@ -1,4 +1,4 @@
-# React Template
+# React/Vite Template
 
 ## Setup
 
@@ -13,4 +13,4 @@
 
 ## Dependencies
 
-- Has dependencies in package.json file for MaterialUI, useLocalStorageState, ESLint, Prettier, Tailwind, PostCSS, react-router-dom, Autoprefixer, and Vite
+- Has dependencies in package.json file for ESLint, Prettier, Tailwind, PostCSS, react-router-dom, Autoprefixer, and Vite
